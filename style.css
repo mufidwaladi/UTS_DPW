@@ -15,12 +15,30 @@ img {
 
 #Utama {
     background-color: gray;
+    border: 1px black;
+}
+
+#Utama > img {
+    position: relative;
+    left: 75vh;
+}
+
+
+
+
+#Kontak {
+    border: 1px black;
+}
+
+#Keahlian {
+    border: 1px black;
 }
 
 #Proyek {
     background-color: gray;
+    border: 1px black;
 }
 
-#Kirimpesan {
-
+button {
+    background-color: gray;
 }
