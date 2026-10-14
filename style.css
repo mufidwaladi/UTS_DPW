@@ -41,26 +41,28 @@ ol > li{
     background-color: gray;
     border: 1px solid black;
     position: relative;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 #Proyek1 {
     background-color: gray;
     border: 1px solid black;
     position: relative;
-    display: inline;
+
 }
 
 #Proyek2 {
     background-color: gray;
     border: 1px solid black;
     position: relative;
-    display: inline;
+
 }
 #Proyek3 {
     background-color: gray;
     border: 1px solid black;
     position: relative;
-    display: inline;
+
     
 }
 
