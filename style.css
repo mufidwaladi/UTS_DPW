@@ -20,6 +20,7 @@ img {
 
 .kata{
     border: 1px black;
+    display: inline;
 }
 
 .gambar {
@@ -48,17 +49,21 @@ img {
     background-color: gray;
     border: 1px black;
     position: relative;
+    display: inline;
 }
 
 #Proyek2 {
     background-color: gray;
     border: 1px black;
     position: relative;
+    display: inline;
 }
 #Proyek3 {
     background-color: gray;
     border: 1px black;
     position: relative;
+    display: inline;
+    
 }
 
 button {
