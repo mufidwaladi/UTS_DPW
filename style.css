@@ -18,11 +18,15 @@ img {
     border: 1px black;
 }
 
-#Utama > img {
-    position: relative;
-    left: 75vh;
+.kata{
+    border: 1px black;
 }
 
+.gambar {
+    position: relative;
+
+    right: -25vh;
+}
 
 
 
@@ -37,8 +41,30 @@ img {
 #Proyek {
     background-color: gray;
     border: 1px black;
+    position: relative;
+}
+
+#Proyek1 {
+    background-color: gray;
+    border: 1px black;
+    position: relative;
+}
+
+#Proyek2 {
+    background-color: gray;
+    border: 1px black;
+    position: relative;
+}
+#Proyek3 {
+    background-color: gray;
+    border: 1px black;
+    position: relative;
 }
 
 button {
+    background-color: gray;
+}
+
+footer {
     background-color: gray;
 }
