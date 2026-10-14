@@ -1,0 +1,26 @@
+
+
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+ol > li{
+    list-style-type: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#Utama {
+    background-color: gray;
+}
+
+#Proyek {
+    background-color: gray;
+}
+
+#Kirimpesan {
+
+}
